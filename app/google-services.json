@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "64346391038",
+    "firebase_url": "https://myapplication16-c40b7.firebaseio.com",
+    "project_id": "myapplication16-c40b7",
+    "storage_bucket": "myapplication16-c40b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64346391038:android:7fdcc1cb4de87cdc",
+        "android_client_info": {
+          "package_name": "fanes.irfan.myapplication16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64346391038-evk9m43amvnq7krktq0gp7le97i5srpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjkXdM3JGLde29pxtdUnFRoknbLJtbhfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
